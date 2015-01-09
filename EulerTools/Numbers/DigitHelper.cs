@@ -71,6 +71,7 @@ namespace EulerTools.Numbers
             return result;
         }
 
+        // so far, not needed. 1/9/2015.
         ///// <summary>
         ///// Creates a long by appending
         ///// b to a, such that a = 1, b = 2
@@ -97,11 +98,6 @@ namespace EulerTools.Numbers
             return (int) Math.Ceiling(Math.Log10(number));
         }
 
-        public int GetDigitCount(long number)
-        {
-            return (int) Math.Ceiling(Math.Log10(number));
-        }
-
         /// <summary>
         /// Returns all rotations of the digit, including itself.
         /// </summary>
@@ -112,11 +108,11 @@ namespace EulerTools.Numbers
             var numbers = new List<int> {number};
             int digitCount = GetDigitCount(number);
 
-            string current = number.ToString();
+            int current = number;
             for (int i = 0; i < digitCount; i++)
             {
                 current = RotateNumber(current);
-                numbers.Add(int.Parse(current));
+                numbers.Add(current);
             }
             return numbers;
         }
@@ -145,9 +141,9 @@ namespace EulerTools.Numbers
         {
             if (number < 10) return number;
             int dCount = GetDigitCount(number);
-            int leftMost = GetDigit(number, dCount);
+            int leftMost = GetDigit(number, dCount - 1);
             int remaining = RemoveLeftMostDigit(number);
-            remaining *= 10 + leftMost;
+            remaining = remaining * 10 + leftMost;
             return remaining;
         }
 
