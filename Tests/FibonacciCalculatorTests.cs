@@ -11,14 +11,6 @@ namespace Tests
         FibonacciCalculator fib = new FibonacciCalculator();
 
         [TestMethod]
-        public void string_builder_returns_string_of_proper_length()
-        {
-            const int digitCount = 10;
-            string result = fib.GetNumberStringOfDigitCount(digitCount);
-            Assert.AreEqual(result.Length, digitCount);
-        }
-
-        [TestMethod]
         public void big_integer_limit_is_proper_digit_length()
         {
             const int limit = 1000;
@@ -46,8 +38,6 @@ namespace Tests
         {
             const int digitCount = 3;
             const int expected = 144;
-            //const int digitCount = 2;
-            //const int expected = 13;
 
             var result = fib.FindFibonacciToDigitCount(digitCount);
 

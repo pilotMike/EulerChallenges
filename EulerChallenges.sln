@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralDiagonals", "SpiralDiagonals\SpiralDiagonals.csproj", "{2C66971B-5785-4AC4-B17B-41AE8BCD8790}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruncatablePrimes", "TruncatablePrimes\TruncatablePrimes.csproj", "{77E48B52-9C55-4A89-9917-491D50BDF897}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandigitalMultiples", "PandigitalMultiples\PandigitalMultiples.csproj", "{09C4CC20-1D89-43D8-9D16-3454CE348D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceTests", "PerformanceTests\PerformanceTests.csproj", "{69712DCA-2F73-4A2F-AF53-10B64738800A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -106,6 +108,12 @@ Global
 		{09C4CC20-1D89-43D8-9D16-3454CE348D80}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
 		{09C4CC20-1D89-43D8-9D16-3454CE348D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C4CC20-1D89-43D8-9D16-3454CE348D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Release 2.0|Any CPU.ActiveCfg = Release|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Release 2.0|Any CPU.Build.0 = Release|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69712DCA-2F73-4A2F-AF53-10B64738800A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

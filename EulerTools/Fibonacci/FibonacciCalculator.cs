@@ -63,17 +63,7 @@ namespace EulerTools.Fibonacci
         /// <returns></returns>
         public BigInteger GetBigIntegerOfDigits(int digitCount)
         {
-            var thousandDigitNumberString = GetNumberStringOfDigitCount(digitCount);
-            return BigInteger.Parse(thousandDigitNumberString);
-        }
-
-        public string GetNumberStringOfDigitCount(int digitCount)
-        {
-            var builder = new StringBuilder(digitCount);
-            builder.Append("1");
-            for (int i = 0; i < digitCount - 1; i++)
-                builder.Append(0);
-            return builder.ToString();
+            return BigInteger.Pow(10, digitCount - 1);
         }
     }
 }

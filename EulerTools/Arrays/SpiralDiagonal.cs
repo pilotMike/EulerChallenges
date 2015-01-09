@@ -36,7 +36,7 @@ namespace EulerTools.Arrays
             // sum the numbers
 
             int total = 1;
-            int iterations = (gridSize%2 == 0) ? gridSize/2 : gridSize/2 + 1;
+            int iterations = (int)Math.Ceiling((double)gridSize/2);
 
             var diagonals = new List<int> {1}; // seed
 
