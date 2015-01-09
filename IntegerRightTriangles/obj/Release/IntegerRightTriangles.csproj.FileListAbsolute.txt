@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\bin\Release\IntegerRightTriangles.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\bin\Release\IntegerRightTriangles.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\bin\Release\IntegerRightTriangles.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\obj\Release\IntegerRightTriangles.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\obj\Release\IntegerRightTriangles.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\obj\Release\IntegerRightTriangles.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\IntegerRightTriangles\bin\Release\EulerTools.pdb
