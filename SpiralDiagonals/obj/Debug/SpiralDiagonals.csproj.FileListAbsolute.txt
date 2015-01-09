@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Debug\SpiralDiagonals.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Debug\SpiralDiagonals.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Debug\SpiralDiagonals.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Debug\SpiralDiagonals.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Debug\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Debug\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Debug\SpiralDiagonals.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Debug\SpiralDiagonals.pdb

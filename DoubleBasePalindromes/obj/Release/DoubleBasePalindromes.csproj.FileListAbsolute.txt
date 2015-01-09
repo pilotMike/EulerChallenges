@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\bin\Release\DoubleBasePalindromes.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\bin\Release\DoubleBasePalindromes.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\bin\Release\DoubleBasePalindromes.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\obj\Release\DoubleBasePalindromes.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\obj\Release\DoubleBasePalindromes.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DoubleBasePalindromes\obj\Release\DoubleBasePalindromes.pdb

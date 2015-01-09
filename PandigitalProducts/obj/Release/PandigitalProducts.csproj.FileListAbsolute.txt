@@ -1,0 +1,16 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.exe.config
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\PandigitalProducts.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\bin\Release\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.csprojResolveAssemblyReference.cache
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalProducts\obj\Release\PandigitalProducts.pdb

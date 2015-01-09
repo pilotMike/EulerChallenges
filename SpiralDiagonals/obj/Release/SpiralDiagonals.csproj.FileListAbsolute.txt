@@ -1,0 +1,16 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.exe.config
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\SpiralDiagonals.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\bin\Release\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.csprojResolveAssemblyReference.cache
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\SpiralDiagonals\obj\Release\SpiralDiagonals.pdb

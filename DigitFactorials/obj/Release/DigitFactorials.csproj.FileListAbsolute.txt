@@ -1,0 +1,16 @@
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.exe.config
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.csprojResolveAssemblyReference.cache
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\DigitFactorials.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFactorials\obj\Release\DigitFactorials.csprojResolveAssemblyReference.cache

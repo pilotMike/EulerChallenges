@@ -1,0 +1,11 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\TruncatablePrimes.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\TruncatablePrimes.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\TruncatablePrimes.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\obj\Release\TruncatablePrimes.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\obj\Release\TruncatablePrimes.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\obj\Release\TruncatablePrimes.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\bin\Release\TruncatablePrimes.exe.config
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\obj\Release\TruncatablePrimes.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\TruncatablePrimes\obj\Release\TruncatablePrimes.pdb

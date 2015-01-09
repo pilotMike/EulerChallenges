@@ -1,0 +1,6 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\bin\Debug\DigitFifthPowers.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\bin\Debug\DigitFifthPowers.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\bin\Debug\DigitFifthPowers.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\obj\Debug\DigitFifthPowers.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\obj\Debug\DigitFifthPowers.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\DigitFifthPowers\obj\Debug\DigitFifthPowers.csprojResolveAssemblyReference.cache

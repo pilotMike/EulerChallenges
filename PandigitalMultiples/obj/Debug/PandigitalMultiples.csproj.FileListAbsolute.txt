@@ -1,0 +1,8 @@
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\bin\Debug\PandigitalMultiples.exe.config
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\bin\Debug\PandigitalMultiples.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\bin\Debug\PandigitalMultiples.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\bin\Debug\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\bin\Debug\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\obj\Debug\PandigitalMultiples.csprojResolveAssemblyReference.cache
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\obj\Debug\PandigitalMultiples.exe
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\PandigitalMultiples\obj\Debug\PandigitalMultiples.pdb

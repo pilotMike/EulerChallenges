@@ -1,0 +1,10 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\bin\Debug\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\bin\Debug\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\bin\Debug\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\bin\Debug\EulerTools.pdb
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.csprojResolveAssemblyReference.cache
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.dll
+G:\OneDrive\Projects\Euler Challenges\EulerChallenges\EulerTools\obj\Debug\EulerTools.pdb
