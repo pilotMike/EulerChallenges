@@ -45,6 +45,7 @@
     <Compile Include="Numbers\Converter.cs" />
     <Compile Include="Numbers\DigitHelper.cs" />
     <Compile Include="Numbers\FactorialHelper.cs" />
+    <Compile Include="Numbers\Incrementor.cs" />
     <Compile Include="Numbers\PalindromeHelper.cs" />
     <Compile Include="Numbers\Pandigital.cs" />
     <Compile Include="Primes\PrimeCalculator.cs" />

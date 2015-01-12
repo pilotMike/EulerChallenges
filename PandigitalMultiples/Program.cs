@@ -59,7 +59,7 @@ namespace PandigitalMultiples
                 {
                     concatted = dHelper.Concat(concatted, i*j);
 
-                    if (dHelper.GetDigitCount(concatted) == 9 &&
+                    if (dHelper.DigitCount(concatted) == 9 &&
                         concatted > largest &&
                         pan.IsPandigital(concatted))
                     {

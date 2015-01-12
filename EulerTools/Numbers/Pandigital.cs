@@ -28,7 +28,7 @@ namespace EulerTools.Numbers
             // 0 is set to true because it is not included.
 
             // first, check to see if we have 9 digits.
-            if (new DigitHelper().GetDigitCount(number) != DigitLength) return false;
+            if (new DigitHelper().DigitCount(number) != DigitLength) return false;
 
             int temp = number;
             bool[] nums = new bool[10];

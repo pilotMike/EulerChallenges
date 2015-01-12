@@ -45,7 +45,8 @@ namespace EulerTools.Numbers
         /// <returns></returns>
         public IEnumerable<int> SplitDigits(int number)
         {
-            int length = GetDigitCount(number);
+            if (number < 10) return new[] {number};
+            int length = DigitCount(number);
             int[] digits = new int[length];
             int parseNu = number;
             for (int i = 0; i < length; i++)
@@ -66,7 +67,7 @@ namespace EulerTools.Numbers
         /// <returns></returns>
         public int Concat(int a, int b)
         {
-            int bCount = GetDigitCount(b);
+            int bCount = DigitCount(b);
             int result = a*(int) Math.Pow(10, bCount) + b;
             return result;
         }
@@ -82,7 +83,7 @@ namespace EulerTools.Numbers
         ///// <returns></returns>
         //public long Concat(long a, int b)
         //{
-        //    int bCount = GetDigitCount(b);
+        //    int bCount = DigitCount(b);
         //    long result = a * (long) Math.Pow(10, bCount) + b;
         //    return result;
         //}
@@ -93,9 +94,12 @@ namespace EulerTools.Numbers
         /// </summary>
         /// <param name="number"></param>
         /// <returns></returns>
-        public int GetDigitCount(int number)
+        public int DigitCount(int number)
         {
-            return (int) Math.Ceiling(Math.Log10(number));
+            if (number == 0) return 1;
+            //if (number < 10) return 1; // the method below doesn't work for single digit numbers.
+            //if (number == 10) return 2;
+            return (int) Math.Floor(Math.Log10(number) + 1);
         }
 
         /// <summary>
@@ -106,7 +110,7 @@ namespace EulerTools.Numbers
         public IEnumerable<int> RotateDigits(int number)
         {
             var numbers = new List<int> {number};
-            int digitCount = GetDigitCount(number);
+            int digitCount = DigitCount(number);
 
             int current = number;
             for (int i = 0; i < digitCount; i++)
@@ -140,7 +144,7 @@ namespace EulerTools.Numbers
         public int RotateNumber(int number)
         {
             if (number < 10) return number;
-            int dCount = GetDigitCount(number);
+            int dCount = DigitCount(number);
             int leftMost = GetDigit(number, dCount - 1);
             int remaining = RemoveLeftMostDigit(number);
             remaining = remaining * 10 + leftMost;
@@ -167,7 +171,7 @@ namespace EulerTools.Numbers
         {
             if (num < 10)
                 return num;
-            int digitCount = GetDigitCount(num);
+            int digitCount = DigitCount(num);
             return (int)(num % (Math.Pow(10, digitCount - 1)));
         }
     }

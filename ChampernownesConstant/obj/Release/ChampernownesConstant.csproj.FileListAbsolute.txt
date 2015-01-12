@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\bin\Release\ChampernownesConstant.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\bin\Release\ChampernownesConstant.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\bin\Release\ChampernownesConstant.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\obj\Release\ChampernownesConstant.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\obj\Release\ChampernownesConstant.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\ChampernownesConstant\obj\Release\ChampernownesConstant.pdb

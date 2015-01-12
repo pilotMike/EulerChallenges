@@ -32,7 +32,34 @@ namespace Tests
         public void gets_correct_digit_count()
         {
             int expected = 4;
-            int result = dHelper.GetDigitCount(number);
+            int result = dHelper.DigitCount(number);
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void gets_correct_digit_count_if_a_power_of_10()
+        {
+            int expected = 2;
+            int input = 10;
+            int result = dHelper.DigitCount(input);
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void gets_correct_digit_count_for_single_digit_numbers()
+        {
+            const int input = 8;
+            const int expected = 1;
+            int result = dHelper.DigitCount(input);
+            Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void gets_correct_digit_count_for_0()
+        {
+            const int input = 0;
+            const int expected = 1;
+            int result = dHelper.DigitCount(input);
             Assert.AreEqual(expected, result);
         }
 
