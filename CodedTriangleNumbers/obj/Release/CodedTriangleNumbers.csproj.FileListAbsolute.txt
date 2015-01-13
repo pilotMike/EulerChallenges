@@ -1,0 +1,9 @@
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\CodedTriangleNumbers.exe.config
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\CodedTriangleNumbers.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\CodedTriangleNumbers.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\EulerTools.dll
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\EulerTools.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\obj\Release\CodedTriangleNumbers.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\obj\Release\CodedTriangleNumbers.exe
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\obj\Release\CodedTriangleNumbers.pdb
+C:\Users\IBM_ADMIN\OneDrive\Projects\Euler Challenges\EulerChallenges\CodedTriangleNumbers\bin\Release\p042_words.txt
